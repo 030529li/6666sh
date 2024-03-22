@@ -24,14 +24,7 @@ const USER_CONFIG = {
       id: 'oOIN_6ALpwW3PdxIaJcQa3iWpV4g',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '今天是{{date.DATA}}     
-        地区：{{region.DATA}}    
-  天气：{{weather.DATA}}     
-最低气温：{{min_temp.DATA}}   
-最高气温：{{max_temp.DATA}} 
-当前气温：{{temp.DATA}} 
-日出时间：{{sunrise.DATA}}   
-日落时间：{{sunset.DATA}}     {{birthday1.DATA}}    
-今日建议：{{proposal.DATA}}    {{chp.DATA}}    {{note_en.DATA}}    {{note_ch.DATA}}',
+        地区：{{region.DATA}}    天气：{{weather.DATA}}     最低气温：{{min_temp.DATA}}   最高气温：{{max_temp.DATA}} 当前气温：{{temp.DATA}} 日出时间：{{sunrise.DATA}}   日落时间：{{sunset.DATA}}     {{birthday1.DATA}}    今日建议：{{proposal.DATA}}    {{chp.DATA}}    {{note_en.DATA}}    {{note_ch.DATA}}',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '02-20',
       festivals: [
